@@ -1,0 +1,14 @@
+C:\Users\ibrahimaliyevv2\source\repos\FormtasksCsCastingBoxing\DrugStore\DrugStore\bin\Debug\netcoreapp3.1\DrugStore.exe
+C:\Users\ibrahimaliyevv2\source\repos\FormtasksCsCastingBoxing\DrugStore\DrugStore\bin\Debug\netcoreapp3.1\DrugStore.deps.json
+C:\Users\ibrahimaliyevv2\source\repos\FormtasksCsCastingBoxing\DrugStore\DrugStore\bin\Debug\netcoreapp3.1\DrugStore.runtimeconfig.json
+C:\Users\ibrahimaliyevv2\source\repos\FormtasksCsCastingBoxing\DrugStore\DrugStore\bin\Debug\netcoreapp3.1\DrugStore.runtimeconfig.dev.json
+C:\Users\ibrahimaliyevv2\source\repos\FormtasksCsCastingBoxing\DrugStore\DrugStore\bin\Debug\netcoreapp3.1\DrugStore.dll
+C:\Users\ibrahimaliyevv2\source\repos\FormtasksCsCastingBoxing\DrugStore\DrugStore\bin\Debug\netcoreapp3.1\DrugStore.pdb
+C:\Users\ibrahimaliyevv2\source\repos\FormtasksCsCastingBoxing\DrugStore\DrugStore\obj\Debug\netcoreapp3.1\DrugStore.csproj.AssemblyReference.cache
+C:\Users\ibrahimaliyevv2\source\repos\FormtasksCsCastingBoxing\DrugStore\DrugStore\obj\Debug\netcoreapp3.1\DrugStore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ibrahimaliyevv2\source\repos\FormtasksCsCastingBoxing\DrugStore\DrugStore\obj\Debug\netcoreapp3.1\DrugStore.AssemblyInfoInputs.cache
+C:\Users\ibrahimaliyevv2\source\repos\FormtasksCsCastingBoxing\DrugStore\DrugStore\obj\Debug\netcoreapp3.1\DrugStore.AssemblyInfo.cs
+C:\Users\ibrahimaliyevv2\source\repos\FormtasksCsCastingBoxing\DrugStore\DrugStore\obj\Debug\netcoreapp3.1\DrugStore.csproj.CoreCompileInputs.cache
+C:\Users\ibrahimaliyevv2\source\repos\FormtasksCsCastingBoxing\DrugStore\DrugStore\obj\Debug\netcoreapp3.1\DrugStore.dll
+C:\Users\ibrahimaliyevv2\source\repos\FormtasksCsCastingBoxing\DrugStore\DrugStore\obj\Debug\netcoreapp3.1\DrugStore.pdb
+C:\Users\ibrahimaliyevv2\source\repos\FormtasksCsCastingBoxing\DrugStore\DrugStore\obj\Debug\netcoreapp3.1\DrugStore.genruntimeconfig.cache
